@@ -25,53 +25,39 @@
 🤖 Passionate about Full Stack Development, Generative AI, RAG Systems, and Cloud Technologies.
 
 🌟 Always eager to learn, build, and contribute to impactful software solutions.
-
----
-
-## 🏆 Featured Projects
-
-### 🤖 AI-Powered Website Builder
-- Built an AI-powered website generator using React.js, Express.js, Prisma ORM, and Gemini API.
-- Generates production-ready HTML/Tailwind CSS from natural language prompts.
-- Supports authentication, version control, rollback, and live preview.
-
-### 💻 CodeJam – Real-Time Collaborative Coding Platform
-- Developed a collaborative coding platform with live synchronization.
-- Implemented room-based communication, chat, and file-sharing features.
-- Built using MERN Stack, Socket.IO, WebRTC, and Monaco Editor.
-
-### ✈️ AI Trip Planner
-- Built an AI-powered travel planner using MERN Stack and Gemini AI.
-- Generates personalized itineraries and recommendations.
-- Features secure authentication and responsive UI.
-
 ---
 
 # 💻 Tech Stack
 
-### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux)
-
-### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio)
 ![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
-
-### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google)
+![RAG](https://img.shields.io/badge/RAG-Pipeline-blueviolet?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
 ### AI & LLM
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
